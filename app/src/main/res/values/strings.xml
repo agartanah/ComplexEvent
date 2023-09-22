@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ComplexEvent</string>
+    <string name="buttonSave">СОХРАНИТЬ</string>
+    <string name="checkboxText">Точно сохранить?</string>
+</resources>
